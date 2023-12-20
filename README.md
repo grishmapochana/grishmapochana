@@ -4,8 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack developer
 --------------------
 
+Full stack Developer with 2 years of experience in developing and implementing front-end applications. Experience in collaborating with back-end teams to integrate user-facing elements with server-side logic, incorporating RESTful APIs and optimizing components for maximum performance. Experience in Next.js framework in building web applications. Familiarity with testing frameworks such as cypress for writing unit and integration tests. Adept at identifying and resolving performance and scalability issues, staying up-to-date with emerging technologies and frameworks.
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [grishma.pochana@gmail.com](mailto:grishma.pochana@gmail.com)
+* 🚀  I'm currently working on [Coretek labs](http://coretek.io/)
+* 🧠  I'm learning Next.js-14
 
 ### Skills
 
