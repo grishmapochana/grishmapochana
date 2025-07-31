@@ -9,7 +9,7 @@ Full stack Developer with 2.5 years of experience in developing and implementing
 * 🌍  I'm based in United Sattes
 * ✉️  You can contact me at [grishma.pochana@gmail.com](mailto:grishma.pochana@gmail.com)
 * 🚀  I'm currently doing my masters in University of Michigan Dearborn
-* 🧠  I'm learning Python,Data Mining
+* 🧠  I'm learning Python,Data Mining,AI
 
 ### Skills
 
